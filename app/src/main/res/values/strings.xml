@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextAlbums</string>
+    <string name="retry_message">No network or connection failure\nPlease retry with network connectivity</string>
+    <string name="loading">Loading Data,\nPlease wait</string>
+    <string name="empty_data">No data available to show.</string>
+    <string name="activity_title_user">Users</string>
+    <string name="activity_title_album">Albums</string>
+    <string name="album_list_header">Albums by %s</string>
+</resources>
